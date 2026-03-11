@@ -1,2 +1,2 @@
 # MohithInstitutions-demo
-This is my first git repositort
+This is my first git repositorY
